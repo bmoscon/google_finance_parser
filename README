@@ -1,0 +1,4 @@
+Google Finance Parser
+
+
+Parses Google Finance webpages to provide stock information (price, change, change percentage, timestamp, market status and news articles). Also provides very basic portfolio management.
