@@ -55,3 +55,8 @@ if __name__ == '__main__':
    p.update()
    p.display()
    
+
+   news = get_quote("NYSE", "DD")['news'][0]
+   print("\nA news article for DD")
+   print(news)
+   
